@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "name": "Catpuccin",
+        "author": "iSweat",
+        "version": "1.0",
+        "update_url": "https://raw.githubusercontent.com/Next-Tablet-Driver/NextTabletDriver-Themes/main/Catpuccin/theme.json"
+    },
+    "colors": {
+        "dark_mode": true,
+        "window_bg": "#0d0909",
+        "panel_bg": "#140e0e",
+        "border_color": "#261a1a",
+        "strong_text_color": "#ffffff",
+        "text_color": "#cca3a3",
+        "accent_color": "#ff3333",
+        "widget_bg": "#1c1414",
+        "widget_hover": "#2e2020",
+        "widget_active": "#990011",
+        "success_color": "#4cd137",
+        "warning_color": "#eccc68",
+        "error_color": "#ff4757",
+        "info_color": "#00a8ff",
+        "playfield_color": "#f5f6fa"
+    },
+    "spacing": {
+        "corner_radius": 4.0,
+        "item_spacing_x": 8.0,
+        "item_spacing_y": 8.0,
+        "button_padding_x": 4.0,
+        "button_padding_y": 4.0,
+        "border_width": 2.0
+    }
+}
