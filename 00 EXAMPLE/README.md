@@ -1,4 +1,4 @@
-# Crimson
+# EXAMPLE
 
 A theme for **NextTabletDriver** created by @iSweat-exe.
 

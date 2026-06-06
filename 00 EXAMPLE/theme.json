@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "Example",
+    "author": "iSweat",
+    "version": "1.0",
+    "update_url": "https://raw.githubusercontent.com/Next-Tablet-Driver/NextTabletDriver-Themes/refs/heads/main/00%20EXAMPLE/theme.json"
+  },
+  "colors": {
+    "dark_mode": true,
+    "window_bg": "#000000",
+    "panel_bg": "#000000",
+    "border_color": "#000000",
+    "strong_text_color": "#000000",
+    "text_color": "#000000",
+    "accent_color": "#000000",
+    "widget_bg": "#000000",
+    "widget_hover": "#000000",
+    "widget_active": "#000000",
+    "success_color": "#000000",
+    "warning_color": "#000000",
+    "error_color": "#000000",
+    "info_color": "#000000",
+    "playfield_color": "#000000"
+  },
+  "spacing": {
+    "corner_radius": 4.0,
+    "item_spacing_x": 8.0,
+    "item_spacing_y": 8.0,
+    "button_padding_x": 4.0,
+    "button_padding_y": 4.0,
+    "border_width": 2.0
+  }
+}
